@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local ledgers and generated reports
+basaltledger.json
+points.csv
+chart.txt
+
+# Local environment overrides (.env.example is committed)
+.env

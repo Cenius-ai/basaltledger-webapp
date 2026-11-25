@@ -1,0 +1,4 @@
+# BasaltLedger runs on the Python standard library alone — nothing here is
+# needed to run the tool. This file only pins the test runner used by
+# `python3 -m pytest` (see INSTALL.md).
+pytest>=8.0,<10
